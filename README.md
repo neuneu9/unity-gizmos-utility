@@ -4,7 +4,7 @@
 This is a utility to draw circle or regular polygons in Unity Gizmos.
 
 ## Screenshot
-![screenshot](https://github.com/neuneu9/gizmos-utility/blob/images/screenshot.png)
+![screenshot](https://github.com/neuneu9/unity-gizmos-utility/blob/images/screenshot.png)
 
 ## Example
 ```cs
